@@ -1,1 +1,1 @@
-link chạy:https://IlyaxRAI.github.io/crush/
+link chạy:https://IlyaxRAI.github.io/IlyaxRai/
