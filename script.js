@@ -196,7 +196,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
         
         case 12:
            
-            document.getElementById('noBtn').innerHTML = 'Đừng bỏ rơi chàng trai đáng thương này mà';
+            document.getElementById('noBtn').innerHTML = 'Đừng bỏ rơi chàng trai đáng thương này mà :(';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             // Hacer que el botón "Sí" crezca
@@ -208,7 +208,7 @@ document.getElementById('noBtn').addEventListener('click', function() {
         
         case 13:
            
-            document.getElementById('noBtn').innerHTML = 'CôCô đồng ý nhóooooo';
+            document.getElementById('noBtn').innerHTML = 'Cô đồng ý nhóooooo';
             document.getElementById('noBtn').style.backgroundColor = '#F1330A';
 
             document.getElementById('siBtn').style.fontSize = '240px';
